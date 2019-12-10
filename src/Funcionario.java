@@ -23,12 +23,6 @@ public class Funcionario extends Pessoa {
         this.trabalhando = trabalhando;
     }
 
-    @Override
-    public String toString() {
-        return "Funcionario{" +
-                "setor='" + setor + '\'' +
-                ", trabalhando=" + trabalhando +
-                '}';
-    }
+
 }
 
